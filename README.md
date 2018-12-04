@@ -1,2 +1,2 @@
-# hasdhemsquityet.github.io
+# hasdhemsquityet
 has he done it yet
